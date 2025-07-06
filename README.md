@@ -21,67 +21,23 @@ A Flutter app built with clean architecture that uses the Rick and Morty API to 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Login page: <br/>
-<img src="https://i.imgur.com/2l89DvC.png" height="80%" width="80%" />
+Splash screen: <br/>
+<img src="https://i.imgur.com/FLOHHtp.png" height="80%" width="80%" />
 <br />
 <br />
-Register page: <br/>
-<img src="https://i.imgur.com/YDSsjpi.png" height="80%" width="80%" />
+Characters screen: <br/>
+<img src="https://i.imgur.com/ekQsOoO.png" height="80%" width="80%" />
 <br />
 <br />
-Home page: <br/>
-<img src="https://i.imgur.com/v8baXyr.png" height="80%" width="80%" />
+Charcater filters: <br/>
+<img src="https://i.imgur.com/V7wg4JX.png" height="80%" width="80%" />
 <br />
 <br />
-Drawer: <br/>
-<img src="https://i.imgur.com/RYEGsWp.png" height="80%" width="80%" />
+Episodes screen: <br/>
+<img src="https://i.imgur.com/K2snpzx.png" height="80%" width="80%" />
 <br />
 <br />
-Products page: <br/>
-<img src="https://i.imgur.com/S7X07FC.png" height="80%" width="80%" />
-<br />
-<br />
-Specials page: <br/>
-<img src="https://i.imgur.com/7vtCACg.png" height="80%" width="80%" />
-<br />
-<br />
-Cart page: <br/>
-<img src="https://i.imgur.com/iPOff2s.png" height="80%" width="80%" />
-<br />
-<br />
-Checkout page: <br/>
-<img src="https://i.imgur.com/4FomhEZ.png" height="80%" width="80%" />
-<br />
-<br />
-Payment page: <br/>
-<img src="https://i.imgur.com/c3ur2Kf.png" height="80%" width="80%" />
-<br />
-<br />
-Order details page: <br/>
-<img src="https://i.imgur.com/R5NITCO.png" height="80%" width="80%" />
-<br />
-<br />
-Profile page: <br/>
-<img src="https://i.imgur.com/wOFkqXk.png" height="80%" width="80%" />
-<br />
-<br />
-Reviews page: <br/>
-<img src="https://i.imgur.com/KxQVRMZ.png" height="80%" width="80%" />
-<br />
-<br />
-Add review page: <br/>
-<img src="https://i.imgur.com/lTWGtJy.png" height="80%" width="80%" />
-<br />
-<br />
-Firebase: <br/>
-<img src="https://i.imgur.com/bJHW8w2.png" height="80%" width="80%" />
-<br />
-<br />
-API: <br/>
-<img src="https://i.imgur.com/AgpOSEs.png" height="80%" width="80%" />
-<br />
-<br />
-JSON: <br/>
-<img src="https://i.imgur.com/ZX91Pe8.png" height="80%" width="80%" />
+Locations screen: <br/>
+<img src="https://i.imgur.com/pKXj2fB.png" height="80%" width="80%" />
 <br />
 <br />
