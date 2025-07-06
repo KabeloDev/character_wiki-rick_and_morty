@@ -11,7 +11,7 @@ A Flutter app built with clean architecture that uses the Rick and Morty API to 
 
 - <b>Flutter</b>
 - <b>BloC</b>
-- <b>Rick and Morty API</b>
+- <b>Rick and Morty API (https://rickandmortyapi.com/documentation)</b>
 
 <h2>Environments Used </h2>
 
