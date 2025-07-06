@@ -29,6 +29,10 @@ Characters screen: <br/>
 <img src="https://i.imgur.com/ekQsOoO.png" height="80%" width="80%" />
 <br />
 <br />
+Character details: <br/>
+<img src="https://i.imgur.com/y30AHJp.png" height="80%" width="80%" />
+<br />
+<br />
 Charcater filters: <br/>
 <img src="https://i.imgur.com/V7wg4JX.png" height="80%" width="80%" />
 <br />
