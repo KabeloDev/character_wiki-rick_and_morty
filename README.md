@@ -22,26 +22,26 @@ A Flutter app built with clean architecture that uses the Rick and Morty API to 
 
 <p align="center">
 Splash screen: <br/>
-<img src="https://i.imgur.com/FLOHHtp.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/FLOHHtp.png" height="500%" width="100%" />
 <br />
 <br />
 Characters screen: <br/>
-<img src="https://i.imgur.com/ekQsOoO.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/ekQsOoO.png" height="500%" width="100%" />
 <br />
 <br />
 Character details: <br/>
-<img src="https://i.imgur.com/y30AHJp.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/y30AHJp.png" height="500%" width="100%" />
 <br />
 <br />
 Charcater filters: <br/>
-<img src="https://i.imgur.com/V7wg4JX.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/V7wg4JX.png" height="500%" width="100%" />
 <br />
 <br />
 Episodes screen: <br/>
-<img src="https://i.imgur.com/K2snpzx.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/K2snpzx.png" height="500%" width="100%" />
 <br />
 <br />
 Locations screen: <br/>
-<img src="https://i.imgur.com/pKXj2fB.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/pKXj2fB.png" height="500%" width="100%" />
 <br />
 <br />
